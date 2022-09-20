@@ -26,4 +26,4 @@
 
 更应知今日之日来之不易
 
-Everything has a time, and everything in the world has a time
+For everything there is a season, and a time for every matter under heaven.
