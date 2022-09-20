@@ -27,5 +27,3 @@
 更应知今日之日来之不易
 
 Everything has a time, and everything in the world has a time
-
-但行好事，莫问前程
