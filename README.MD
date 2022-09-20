@@ -14,10 +14,6 @@
 
 突然某一天醒来才发现难以挣脱 犹如流沙
 
-
-
-来之不易
-
 知易行难
 
 懈怠
@@ -27,6 +23,8 @@
 万种可能 不要设定限制 
 
 如意之事十之一二足矣
+
+更应知今日之日来之不易
 
 Everything has a time, and everything in the world has a time
 
