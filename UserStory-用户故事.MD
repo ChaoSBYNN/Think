@@ -66,9 +66,9 @@ Then<得到什么结果>
 
 As a `role`, I want to `action`, (so that `benefit`).
 
-`role` -> Who
-`action` -> What
-`benefit` -> Why
+- `role` -> Who
+- `action` -> What
+- `benefit` -> Why
 
 --------------------------------------------------------
 
