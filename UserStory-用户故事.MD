@@ -74,4 +74,5 @@ As a `role`, I want to `action`, (so that `benefit`).
 
 ## 参考
 
-[敏捷微知识（三）：关于用户故事（User Story）](https://zhuanlan.zhihu.com/p/480197192)
+- [敏捷微知识（三）：关于用户故事（User Story）](https://zhuanlan.zhihu.com/p/480197192)
+- [用户故事 User stories](https://zhuanlan.zhihu.com/p/105986421)
