@@ -10,22 +10,26 @@
 
 > 因为用户故事的描述信息写在卡片上，Ron Jeffries在2001年用3个C来描述它：
 
-Card（卡⽚）：用户故事被写在一个小的卡片上包含故事描述、规则和验收标准，如下所示：
+*Card(卡⽚)*：用户故事被写在一个小的卡片上包含故事描述、规则和验收标准，如下所示：
 
-```
-<卡片标题>
-As a <Role>
-I want to <Activity>
-So that <Business Value>
-```
+    正面
+    
+    ```
+    <卡片标题>
+    As a <Role>
+    I want to <Activity>
+    So that <Business Value>
+    ```
+    
+    背面
+    
+    ```
+    <验收标准>
+    Given<什么样的条件下>
+    When<采取什么行动>
+    Then<得到什么结果>
+    ```
 
-```
-<验收标准>
-Given<什么样的条件下>
-When<采取什么行动>
-Then<得到什么结果>
-```
+*Conversation(交谈)*：通过与客户或产品负责人(Product Owner)的交流来确定用户故事的细节，确保各方对用户故事的理解正确。
 
-Conversation（交谈）：通过与客户或产品负责人（Product Owner）的交流来确定用户故事的细节，确保各方对用户故事的理解正确。
-
-Confirmation （确认）：用验收测试来确认用户故事开发的完整度和正确性。
+*Confirmation(确认)*：用验收测试来确认用户故事开发的完整度和正确性。
